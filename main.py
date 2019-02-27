@@ -8,8 +8,6 @@
 def main():
 
     print("Hi my name is Zhen Chen")
-    
-    print("Cats are better than dogs.")
 
     return 0
 
