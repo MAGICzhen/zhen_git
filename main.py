@@ -7,7 +7,7 @@
 
 def main():
 
-    print("Hi my name is ______")
+    print("Hi my name is Zhen Chen")
 
     return 0
 
